@@ -41,7 +41,7 @@ Questo repository include:
 
 
 ## Contatti
-Per ulteriori informazioni,  [Visita il mio sito](https://www.nicolaiantomasi.com/)
+Per ulteriori informazioni, [visita la pagina web del corso](https://www.nicolaiantomasi.com/corso-sql-server/)
 
 ---
 Grazie per il tuo interesse nel migliorare le tue competenze su SQL Server. Buono studio e buon lavoro!
